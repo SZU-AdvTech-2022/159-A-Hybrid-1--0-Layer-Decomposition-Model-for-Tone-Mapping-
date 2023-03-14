@@ -1,0 +1,7 @@
+@inproceedings{REPO-160,
+    author = "Liang, Zhetong and Xu, Jun and Zhang, David and Cao, Zisheng and Zhang, Lei",
+    booktitle = "Proceedings of the IEEE conference on computer vision and pattern recognition",
+    pages = "4758--4766",
+    title = "{A Hybrid l1-l0 Layer Decomposition Model for Tone Mapping}",
+    year = "2018"
+}
